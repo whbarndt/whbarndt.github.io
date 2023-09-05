@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -26,33 +26,47 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - intro-to-website-dev
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: whbarndt
   # mastodon: your_username
-  # medium: your_username
+  medium: whbarndt
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: whbarndt
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Mojo
+    web_url: https://www.modular.com/mojo
+    image_url: https://contentstatic.techgig.com/thumb/msid-100226226,width-460,resizemode-4/Mojo-the-latest-programming-language-for-AI-developers.jpg?39085
 
-  - name: Web design
+  - name: Qiskit
+    web_url: https://qiskit.org
+    image_url: https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Dask
+    web_url: https://www.dask.org
+    image_url: https://mma.prnewswire.com/media/1832641/Dask_Logo_lockup_primary_Logo.jpg?p=publish
+
+  - name: Scikit-Learn
+    web_url: https://scikit-learn.org/stable/index.html
+    image_url: https://pypi-camo.global.ssl.fastly.net/b86b2758380b6bc7cbdf4ff97fda9826a3b74aa2/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7363696b69742d6c6561726e2f7363696b69742d6c6561726e2f6d61696e2f646f632f6c6f676f732f7363696b69742d6c6561726e2d6c6f676f2e706e67
+
+  - name: Elementary Particle Physics by David Griffiths
+    web_url: https://www.wiley.com/en-us/Introduction+to+Elementary+Particles%2C+2nd%2C+Revised+Edition-p-9783527406012
+    image_url: https://media.wiley.com/product_data/coverImage300/18/35274060/3527406018.jpg
+
+  - name: Quantum Computation and Quantum Information 
+    web_url: https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview
+    image_url: https://assets.cambridge.org/97811070/02173/cover/9781107002173.jpg

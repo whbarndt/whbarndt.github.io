@@ -1,5 +1,6 @@
 layout: stacked
 style: light
+markdown: redcarpet
 
 plugins:
   - jekyll-octicons
@@ -27,6 +28,7 @@ projects:
     forks: true
     projects:
      - intro-to-website-dev
+     - web-based-blackjack
 
 social_media:
   # behance: your_username

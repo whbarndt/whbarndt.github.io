@@ -49,15 +49,9 @@ In-Progress
 [Download PowerPoint](/assets/Investigating_the_Performance_of_a_Semi-Professional_Magnetometer.pptx)
 [Download Paper](/assets/PHYS_F400_Capstone_Report.pdf)
 
-## Professional Projects
+## Professional Projects (In-Progress)
 
 ### Historical Remotely Sensed Snowpack Assessment of the Chena Basin in Alaska During the Snow Depletion Period (Summer 2021 & Fall 2022)
 In-Progress
 [Download Poster](/assets/new-poster_draft-ams2023_post_con_fixes.pdf)
-
-### Near Real Time Processing Statistics Plots (Summer 2022)
-In-Progress
-
-### DOE ARM Data Analysis (Summer/Fall 2023)
-In-Progress
 

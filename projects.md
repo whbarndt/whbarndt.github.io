@@ -2,7 +2,7 @@
 layout: default_md
 ---
 
-# Past Projects
+# Past Projects (In-Progress)
 
 ## Computer Science Degree Projects
 Computer Science Degree Related Projects as a reference for experience

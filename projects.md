@@ -30,8 +30,10 @@ Started a wrapper library for Python's Matplotlib library to simplify usability 
 
 ## *Capstone Project*: Deep Learning for Forest Fire Detection (Spring 2023)
 Created a web app that allows for upload and test of images on if there is a fire in an image and where the fire is. Which used a variety of Deep Learning Architectures and the TensorFlow library. [See GitHub](https://github.com/akdasUAF/ForestFireDetection)
-Download the Computer Sceince Capstone Project Presentation powerpoint and Before Publication Edits paper below: 
+Download the Computer Sceince Capstone Project Presentation powerpoint and Before Publication Edits paper below:
+
 [Download PowerPoint](/assets/Forest_Fire_Detection_through_Deep_Learning_Formal_Presentation.pptx)
+
 [Download Paper (Not Publication Version - In Progress)](/assets/Forest_Fire_Detection_using_Deep_Learning.pdf)
 
 ## Physics Degree Projects
@@ -47,8 +49,11 @@ Created a Jupyter Notebook in Python to generate Legendre Polynomials using SymP
 ## *Capstone Project*: Investigating the Performance of a Semi-Professional Magnetometer for Space Weather Research: 13 Years of Measurements from a Backyard in Anchorage (Sprint 2023)
 In-Progress
 See my paper published in the Journal of Society of Ametuer Radio Astronomers Sept-Oct Issue and my Powerpoint presentation for my Physics Capstone project presentation below:
+
 [See GitHub](https://github.com/whbarndt/samIII-magnetometer-data-analysis)
+
 [Download PowerPoint](/assets/Investigating_the_Performance_of_a_Semi-Professional_Magnetometer.pptx)
+
 [Download Paper](/assets/PHYS_F400_Capstone_Report.pdf)
 
 ## Professional Projects (In-Progress)

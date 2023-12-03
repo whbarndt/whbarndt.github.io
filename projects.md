@@ -2,10 +2,10 @@
 layout: default_md
 ---
 
-# Past Projects (In-Progress)
+# Comprehensive Overview of All Relevant Projects To Date (In-Progress)
 
 ## Computer Science Degree Projects
-Computer Science Degree Related Projects as a reference for experience
+Computer Science Degree Related Projects as a reference for experience:
 
 ### OpenGL Particle System Simulation (Fall 2020)
 Created a Modern OpenGL particle system in C++ to learn more about the computer graphics pipeline. [See GitHub](https://github.com/whbarndt/ParticleSystemDemoOpenGL)
@@ -54,4 +54,3 @@ In-Progress
 ### Historical Remotely Sensed Snowpack Assessment of the Chena Basin in Alaska During the Snow Depletion Period (Summer 2021 & Fall 2022)
 In-Progress
 [Download Poster](/assets/new-poster_draft-ams2023_post_con_fixes.pdf)
-

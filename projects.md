@@ -4,6 +4,8 @@ layout: default_md
 
 # Comprehensive Overview of All Relevant Projects To Date (In-Progress)
 
+If you have any questions on any of these projects, please feel free to reach out to me!: [Email](whbarndt@protonmail.com)
+
 ## Computer Science Degree Projects
 Computer Science Degree Related Projects as a reference for experience:
 

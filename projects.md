@@ -31,7 +31,10 @@ Created a simple custom Unix shell with basic Bash command compatibilities and a
 Started a wrapper library for Python's Matplotlib library to simplify usability with it and be able to use default parameters. [See GitHub](https://github.com/whbarndt/wrapplotlib)
 
 ## *Capstone Project*: Deep Learning for Forest Fire Detection (Spring 2023)
-Created a web app that allows for upload and test of images on if there is a fire in an image and where the fire is. Which used a variety of Deep Learning Architectures and the TensorFlow library. [See GitHub](https://github.com/akdasUAF/ForestFireDetection)
+Created a web app that allows for upload and test of images on if there is a fire in an image and where the fire is. Which used a variety of Deep Learning Architectures and the TensorFlow library.
+
+[See GitHub](https://github.com/akdasUAF/ForestFireDetection)
+
 Download the Computer Sceince Capstone Project Presentation powerpoint and Before Publication Edits paper below:
 
 [Download PowerPoint](/assets/Forest_Fire_Detection_through_Deep_Learning_Formal_Presentation.pptx)

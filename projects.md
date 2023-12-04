@@ -2,7 +2,7 @@
 layout: default_md
 ---
 
-# Comprehensive Overview of All Relevant Projects To Date (In-Progress)
+# Comprehensive Overview of All Relevant Projects To Date ({In-Progress})
 
 If you have any questions on any of these projects, please feel free to reach out to me!: 
 
@@ -75,7 +75,7 @@ Created a Jupyter Notebook in Python to generate Legendre Polynomials using SymP
 [See GitHub](https://github.com/whbarndt/physics-classes-notebooks)
 
 ## *Capstone Project*: Investigating the Performance of a Semi-Professional Magnetometer for Space Weather Research: 13 Years of Measurements from a Backyard in Anchorage (Sprint 2023)
-In-Progress
+{In-Progress} - 
 See my paper published in the Journal of Society of Ametuer Radio Astronomers Sept-Oct Issue and my Powerpoint presentation for my Physics Capstone project presentation below:
 
 [See GitHub](https://github.com/whbarndt/samIII-magnetometer-data-analysis)
@@ -84,16 +84,16 @@ See my paper published in the Journal of Society of Ametuer Radio Astronomers Se
 
 [Download Paper](/assets/PHYS_F400_Capstone_Report.pdf)
 
-## Professional Projects (In-Progress)
+## Professional Projects {In-Progress}
 
 ### Historical Remotely Sensed Snowpack Assessment of the Chena Basin in Alaska During the Snow Depletion Period (Summer 2021 & Fall 2022)
-In-Progress
+{In-Progress} -
 See my poster I presented at AMS 2023:
 
 [Download Poster](/assets/new-poster_draft-ams2023_post_con_fixes.pdf)
 
 ### Investigation into sociological trends in the American Time Use Survey (ATUS) activity and well-being dataset
-In-Progress
+{In-Progress} - 
 See my GitHub on current project progress:
 
 [See Github](https://github.com/whbarndt/atus-analysis)

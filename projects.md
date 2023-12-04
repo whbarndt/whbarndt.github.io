@@ -60,7 +60,10 @@ Download the Computer Sceince Capstone Project Presentation powerpoint and Befor
 ## Physics Degree Projects
 
 ### Studying the Properties of the Corona Discharge Phenomena under an Magnetic Field (Fall 2019 - Spring 2021)
-As a part of the UAA Plasma lab, I helped research the properties of the corona discharge under a magnetic field. I created simulations and models using the COMSOL software so that it would be possible to compare to our in-person corona discharge setup. I was awarded the 2020 Alaska Space Grant Fellowship while working on this project.
+As a part of the UAA Plasma lab, I helped research the properties of the corona discharge under a magnetic field. I created simulations and models using the COMSOL software so that it would be possible to compare to our in-person corona discharge setup. I was awarded the 2020 Alaska Space Grant Apprenticeship (ASGA) while working on this project.
+
+[Download ASPA Project Proposal Document](/assets/ASGA-WHB.pdf)
+
 ### 1D Alfen Wave Magnetohydrodynamic Simulation (Spring 2021)
 Created a 1-D Plasma Alfen wave simulation in Python to gain a better understanding of the physical and mathematical principles that govern Magnetohydrodynamic (MHD) systems and well as understanding how to work with programming partial differential equations in systems. 
 

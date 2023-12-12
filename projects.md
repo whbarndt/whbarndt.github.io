@@ -2,7 +2,7 @@
 layout: default_md
 ---
 
-# Comprehensive Overview of All Relevant Projects To Date ({In-Progress})
+# Portfolio of Academic, Professional, and Personal Projects ({In-Progress})
 
 If you have any questions on any of these projects, please feel free to reach out to me!: 
 
@@ -46,7 +46,7 @@ Started a wrapper library for Python's Matplotlib library to simplify usability 
 
 [See GitHub](https://github.com/whbarndt/wrapplotlib)
 
-## *Capstone Project*: Deep Learning for Forest Fire Detection (Spring 2023)
+### *Capstone Project*: Deep Learning for Forest Fire Detection (Spring 2023)
 Created a web app that allows for upload and test of images on if there is a fire in an image and where the fire is. Which used a variety of Deep Learning Architectures and the TensorFlow library.
 
 [See GitHub](https://github.com/akdasUAF/ForestFireDetection)
@@ -77,7 +77,7 @@ Created a Jupyter Notebook in Python to easily generate Legendre Polynomials and
 
 [See GitHub](https://github.com/whbarndt/physics-classes-notebooks)
 
-## *Capstone Project*: Investigating the Performance of a Semi-Professional Magnetometer for Space Weather Research: 13 Years of Measurements from a Backyard in Anchorage (Sprint 2023)
+### *Capstone Project*: Investigating the Performance of a Semi-Professional Magnetometer for Space Weather Research: 13 Years of Measurements from a Backyard in Anchorage (Sprint 2023)
 {In-Progress} - 
 See my paper published in the Journal of Society of Ametuer Radio Astronomers Sept-Oct Issue and my Powerpoint presentation for my Physics Capstone project presentation below:
 
@@ -98,6 +98,8 @@ See my poster I presented at AMS 2023:
 ### Snow Hydrology - The Study of the Snow’s Role in the Water Cycle (July 2023 - Present)
 {In-Progress} - 
 I work as an Associate Mentor with the [Department of Energy, Atmospheric Radiation Measurement (ARM) Program](https://www.arm.gov), helping process and analyze data from the North Slope of Alaska research facility. You can find the instruments I help mentor [here](https://www.arm.gov/connect-with-arm/organization/instrument-mentors/list).
+
+Current goals of this project is to understand the operational capacities of each instrument and analyze their use scientifically. My project advisors and I would like to also create a schema, combining the information of each instrument to be able to identify different types of snow events that occur in the North Slope of Alaska environment. Which, will be used to help study what a snow season looks like up in the North. 
 
 ## Personal Projects {In-Progress}
 

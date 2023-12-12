@@ -85,7 +85,7 @@ See my paper published in the Journal of Society of Ametuer Radio Astronomers Se
 
 [Download PowerPoint](/assets/Investigating_the_Performance_of_a_Semi-Professional_Magnetometer.pptx)
 
-[Download Publication (Pages 63-75)](/assets/5_SARAJ_2023_Sep-Oct.pdf)
+[Download Publication](/assets/PHYS_F400_Capstone_Report_Reeve2.pdf)
 
 ## Professional Projects {In-Progress}
 

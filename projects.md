@@ -26,15 +26,15 @@ Created a simple static website with simple graphics to play Blackjack with made
 
 [See GitHub](https://github.com/whbarndt/web-based-blackjack)
 
-### Interfaced with a Roomba Vacuum Cleaner (Fall 2022)
-Learned how to interface with a Roomba and programmed it to "Scream" whenever it ran into the wall with its bumper sensor. 
-
-[See Medium Blog Post](https://medium.com/@whbarndt/silence-of-the-roombas-f13be61aa797) 
-
 ### Parallelized OpenGL Particle System Simulation (Fall 2021)
 Took the original OpenGL particle system project and parallelized the particle physics using CUDA and OpenMP. 
 
 [See Fork on GitHub](https://github.com/whbarndt/ParticleSystemDemoOpenGL/tree/parallelization-cuda-openmp)
+
+### MacGyvered a Roomba to Scream when it Ran Into Walls... (Fall 2021)
+Learned how to interface with a Roomba and programmed it to "Scream" whenever it ran into the wall with its bumper sensor. Really funny, read my medium article about it...
+
+[See Medium Blog Post](https://medium.com/@whbarndt/silence-of-the-roombas-f13be61aa797) 
 
 ### Created a simple Unix Shell (Spring 2022)
 Created a simple custom Unix shell with basic Bash command compatibilities and a few custom commands 
@@ -51,7 +51,7 @@ Created a web app that allows for upload and test of images on if there is a fir
 
 [See GitHub](https://github.com/akdasUAF/ForestFireDetection)
 
-Download the Computer Sceince Capstone Project Presentation powerpoint and Before Publication Edits paper below:
+Download the Computer Sceince Capstone Project Presentation powerpoint and the paper (before publication edits) below:
 
 [Download PowerPoint](/assets/Forest_Fire_Detection_through_Deep_Learning_Formal_Presentation.pptx)
 
@@ -60,7 +60,7 @@ Download the Computer Sceince Capstone Project Presentation powerpoint and Befor
 ## Physics Degree Projects
 
 ### Analysis of Simulated IceTop Detector Data to Study the Behavior of Snow Attenuation on Cosmic Ray Signals in the Detector (Fall 2018 - Spring 2019)
-In-Progress
+{In-Progress} -
 
 ### Studying the Properties of the Corona Discharge Phenomena under an Magnetic Field (Fall 2019 - Spring 2021)
 As a part of the UAA Plasma lab, I helped research the properties of the corona discharge under a magnetic field. I created simulations and models using the COMSOL software so that it would be possible to compare to our in-person corona discharge setup. I was awarded the 2020 Alaska Space Grant Apprenticeship (ASGA) while working on this project.
@@ -72,8 +72,8 @@ Created a 1-D Plasma Alfen wave simulation in Python to gain a better understand
 
 [See GitHub](https://github.com/whbarndt/MHD-Alfven-Wave-1D-Sim)
 
-### Jupyter Notebook with Legendre Function Generation (Fall 2022)
-Created a Jupyter Notebook in Python to generate Legendre Polynomials using SymPy.
+### Jupyter Notebook of Symbolic Legendre Function (and other Differential Equation Solutions) Generation (Fall 2022)
+Created a Jupyter Notebook in Python to easily generate Legendre Polynomials and other types of differential equations solutions (Bessel, Lagerre, and more) using SymPy.
 
 [See GitHub](https://github.com/whbarndt/physics-classes-notebooks)
 
@@ -89,13 +89,18 @@ See my paper published in the Journal of Society of Ametuer Radio Astronomers Se
 
 ## Professional Projects {In-Progress}
 
-### Historical Remotely Sensed Snowpack Assessment of the Chena Basin in Alaska During the Snow Depletion Period (Summer 2021 & Fall 2022)
+### Historical Remotely Sensed Snowpack Assessment of the Chena Basin in Alaska During the Snow Depletion Period (Summer 2021 - Fall 2022)
 {In-Progress} -
 See my poster I presented at AMS 2023:
 
 [Download Poster](/assets/new-poster_draft-ams2023_post_con_fixes.pdf)
 
-### Investigation into sociological trends in the American Time Use Survey (ATUS) activity and well-being dataset
+### Snow Hydrology - The Study of the Snow’s Role in the Water Cycle (July 2023 - Present)
+{In-Progress} - 
+
+## Personal Projects {In-Progress}
+
+### How Do Americans Use Their Time? A Systematic Investigation using the American Time Use Survey (ATUS) (Aug 2023 - Present)
 {In-Progress} - 
 See my GitHub on current project progress:
 

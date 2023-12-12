@@ -97,6 +97,7 @@ See my poster I presented at AMS 2023:
 
 ### Snow Hydrology - The Study of the Snow’s Role in the Water Cycle (July 2023 - Present)
 {In-Progress} - 
+I work as an Associate Mentor with the [Department of Energy, Atmospheric Radiation Measurement (ARM) Program](https://www.arm.gov), helping process and analyze data from the North Slope of Alaska research facility. You can find the instruments I help mentor [here](https://www.arm.gov/connect-with-arm/organization/instrument-mentors/list).
 
 ## Personal Projects {In-Progress}
 

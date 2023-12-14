@@ -2,13 +2,13 @@
 layout: default_md
 ---
 
-# Portfolio of Academic, Professional, and Personal Projects ({In-Progress})
+# Portfolio of Academic, Professional, and Personal Projects
 
 If you have any questions on any of these projects, please feel free to reach out to me!: 
 
-[Email](whbarndt@protonmail.com)
+[My Email](whbarndt@protonmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/whbarndt/)
+[My LinkedIn](https://www.linkedin.com/in/whbarndt/)
 
 ## Computer Science Degree Projects
 Computer Science Degree Related Projects as a reference for experience:

@@ -7,6 +7,7 @@ layout: default_md
 If you have any questions on any of these projects, please feel free to reach out to me!: 
 
 [Email](whbarndt@protonmail.com)
+[LinkedIn](https://www.linkedin.com/in/whbarndt/)
 
 ## Computer Science Degree Projects
 Computer Science Degree Related Projects as a reference for experience:

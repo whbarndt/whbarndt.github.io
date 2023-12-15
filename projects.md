@@ -70,7 +70,7 @@ As a part of the UAA Plasma lab, I helped research the properties of the corona 
 
 [Download ASGA Project Proposal Document](/assets/ASGA-WHB.pdf)
 
-#### Other Smaller Projects (Fall 2021 - Spring 2022)
+#### Other Smaller Projects (Fall 2021 - Fall 2022)
 In the latter part of my time at the Plasma Physics Lab, I worked further on COMSOL models, however, started pursuing other model creations in VSim to expand research on the plasma discharge conditions and started assisting in the Multi-Pole Plasma Trap project in the lab.
 
 ### 1D Alfen Wave Magnetohydrodynamic Simulation (Spring 2021)

@@ -64,7 +64,7 @@ Download the Computer Sceince Capstone Project Presentation powerpoint and the p
 ### Analysis of Simulated IceTop Detector Data to Study the Behavior of Snow Attenuation on Cosmic Ray Signals in the Detector (Fall 2018 - Spring 2019)
 {In-Progress} -
 
-### Plasma Physics Lab, University of Alaska Anchorage
+### Plasma Physics Lab, University of Alaska Anchorage (Fall 2019 - Fall 2022)
 #### Studying the Properties of the Corona Discharge Phenomena under an Magnetic Field (Fall 2019 - Fall 2021)
 As a part of the UAA Plasma lab, I helped research the properties of the corona discharge under a magnetic field. I created simulations and models using the COMSOL software so that it would be possible to compare to our in-person corona discharge setup. I was awarded the 2020 Alaska Space Grant Apprenticeship (ASGA) to work on this project.
 

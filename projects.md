@@ -4,6 +4,10 @@ layout: default_md
 
 # Portfolio of Academic, Professional, and Personal Projects
 
+Here is my CV for a succinct look at my academic and professional background:
+
+[My Curriculum Vitae](/assets/William_Hunter_Barndt_CV.pdf)
+
 If you have any questions on any of these projects, please feel free to reach out to me!: 
 
 [My Email](whbarndt@protonmail.com)
